@@ -1,0 +1,16 @@
+body {
+  background: #AAAFFF;
+}
+
+* {
+  font-family: fantasy;
+}
+
+h1 {
+  font-size: 38px;
+}
+
+img {
+  display: block;
+  align: right;
+}
